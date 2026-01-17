@@ -1,9 +1,9 @@
 HELP.md
 ARCHITECTURE.md
-application.yml
-application.properties
+
 target/
 .mvn/wrapper/maven-wrapper.jar
+
 !**/src/main/**/target/
 !**/src/test/**/target/
 
@@ -21,6 +21,7 @@ target/
 *.iws
 *.iml
 *.ipr
+.env
 
 ### NetBeans ###
 /nbproject/private/

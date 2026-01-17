@@ -40,3 +40,5 @@ docs/
 # ==============================
 # DO NOT IGNORE target or *.jar
 # ==============================
+target/
+!target/*.jar

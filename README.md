@@ -139,7 +139,7 @@ This enterprise-grade backend solution powers a complete AI-driven e-commerce pl
 
 ```bash
 # 1. Clone the repository
-git clone <repository-url>
+git clone https://github.com/shi-stack-j/ecommercebackend.git
 cd aiecommercebackend
 
 # 2. Configure database and credentials (see Setup section)
@@ -169,7 +169,7 @@ open http://localhost:8081/backend/v1/swagger-ui/index.html
 #### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/shi-stack-j/ecommercebackend.git
 cd aiecommercebackend
 ```
 
